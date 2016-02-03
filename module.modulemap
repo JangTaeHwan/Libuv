@@ -1,0 +1,4 @@
+module Libuv[system] {
+    header "/usr/local/include/uv.h"
+    export *
+}
